@@ -23,6 +23,8 @@
 </head>
   
 <body>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9619204818439710"
+     crossorigin="anonymous"></script>
     <h1>CLICCA QUI!</h1>
       
     <!-- Create a form then add button
